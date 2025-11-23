@@ -1,0 +1,84 @@
+{
+  "predictor_scaler": {
+    "version": "1.1",
+    "trained_on": "2025-11-13T09:12:25.448267Z",
+    "samples_trained": 185,
+    "features_used": 17,
+    "r2_score_likes": 0.907,
+    "r2_score_comments": 0.955,
+    "val_r2_likes": 0.326,
+    "val_r2_comments": 0.252,
+    "quantiles": {
+      "q10": 220453.2,
+      "q25": 418375.0,
+      "q50": 625224.0,
+      "q75": 1443393.0,
+      "q90": 1835776.4
+    }
+  },
+  "predictor_likes": {
+    "version": "1.1",
+    "trained_on": "2025-11-13T09:12:25.448267Z",
+    "samples_trained": 185,
+    "features_used": 17,
+    "r2_score_likes": 0.907,
+    "r2_score_comments": 0.955,
+    "val_r2_likes": 0.326,
+    "val_r2_comments": 0.252,
+    "quantiles": {
+      "q10": 220453.2,
+      "q25": 418375.0,
+      "q50": 625224.0,
+      "q75": 1443393.0,
+      "q90": 1835776.4
+    }
+  },
+  "predictor_comments": {
+    "version": "1.1",
+    "trained_on": "2025-11-13T09:12:25.448267Z",
+    "samples_trained": 185,
+    "features_used": 17,
+    "r2_score_likes": 0.907,
+    "r2_score_comments": 0.955,
+    "val_r2_likes": 0.326,
+    "val_r2_comments": 0.252,
+    "quantiles": {
+      "q10": 220453.2,
+      "q25": 418375.0,
+      "q50": 625224.0,
+      "q75": 1443393.0,
+      "q90": 1835776.4
+    }
+  },
+  "predictor_views": {
+    "version": "1.1",
+    "trained_on": "2025-11-13T09:12:25.448267Z",
+    "samples_trained": 185,
+    "features_used": 17,
+    "r2_score_likes": 0.907,
+    "r2_score_comments": 0.955,
+    "val_r2_likes": 0.326,
+    "val_r2_comments": 0.252,
+    "quantiles": {
+      "q10": 220453.2,
+      "q25": 418375.0,
+      "q50": 625224.0,
+      "q75": 1443393.0,
+      "q90": 1835776.4
+    }
+  },
+  "anomaly_scaler": {
+    "version": "1.0",
+    "trained_on": "2025-11-13T09:12:25.825699Z",
+    "samples_trained": 185,
+    "baseline_avg_likes": 882014,
+    "baseline_avg_comments": 30551
+  },
+  "anomaly_model": {
+    "version": "1.0",
+    "trained_on": "2025-11-13T09:12:25.825699Z",
+    "samples_trained": 185,
+    "baseline_avg_likes": 882014,
+    "baseline_avg_comments": 30551
+  }
+}

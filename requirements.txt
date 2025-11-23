@@ -1,0 +1,17 @@
+# Core scraping
+instaloader>=4.10
+snscrape>=0.7.0
+yt-dlp>=2023.11.16
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Analysis & dashboard
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+plotly>=5.17
+streamlit>=1.25
+
+# Optional NLP
+textblob>=0.17.1
+vaderSentiment>=3.3.2

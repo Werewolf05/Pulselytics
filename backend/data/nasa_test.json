@@ -1,0 +1,12 @@
+{
+  "platforms": {
+    "youtube": "@NASA",
+    "instagram": "nasa",
+    "twitter": "NASA",
+    "facebook": "NASA"
+  },
+  "name": "NASA Test",
+  "id": "nasa_test",
+  "created_at": "2025-11-04T21:59:53.369660",
+  "last_updated": "2025-11-04T21:59:53.369660"
+}

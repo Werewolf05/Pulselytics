@@ -1,0 +1,12 @@
+{
+  "platforms": {
+    "youtube": "@GoPro",
+    "instagram": "gopro",
+    "twitter": "GoPro",
+    "facebook": "gopro"
+  },
+  "name": "GoPro",
+  "id": "gopro",
+  "created_at": "2025-11-05T13:00:33.220804",
+  "last_updated": "2025-11-05T13:00:33.220804"
+}

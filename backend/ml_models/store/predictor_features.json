@@ -1,0 +1,1 @@
+{"feature_names": ["hour_of_day", "day_of_week", "is_weekend", "month", "caption_length", "word_count", "hashtag_count", "mention_count", "emoji_count", "has_question", "has_exclamation", "has_url", "platform_facebook", "platform_instagram", "platform_twitter", "platform_youtube", "avg_engagement_rate"]}
